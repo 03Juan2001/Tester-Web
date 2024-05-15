@@ -5,7 +5,7 @@
 ---
 
 ### Autores:
-- **AVILA AYALA JUAN CARLO - 20210546**
+- **AVILA AYALA JUAN CARLOS - 20210546**
 
 
 ### Fecha:
